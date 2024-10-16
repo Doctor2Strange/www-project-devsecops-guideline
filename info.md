@@ -12,3 +12,4 @@
 
 ### Change Log
 * [changes](https://github.com/OWASP/DevSecOpsGuideline/releases)
+.
